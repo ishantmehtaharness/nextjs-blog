@@ -12,7 +12,7 @@ export default function FirstPost() {
             <h1>First Post1</h1>
             <h2>
                 <Link href={"/"}>
-                    Go Back to homepage
+                    Go Back to homepage, here
                 </Link>
                 <Image src="/images/profile.jpg" width={900} height={900}/>
             </h2>
